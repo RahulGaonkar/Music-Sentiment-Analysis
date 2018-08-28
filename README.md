@@ -12,4 +12,7 @@ A comparative study based on accuracy of prediction by training different machin
    iv. Model Building: SVM, Naive Bayesian, Gradient Boosting.
    v. Tuning: Cross-Validation, Hyperparameter tuning.
 4. Different visualisation patterns like Word Cloud, Comparison Cloud & Pyramid Plot were also created to get some insights from the predicted results.
-5. Technologies, Libraries & Software Tools Used : Pyspark, R, nltk, Spark ML, Spark Mlib, Spark SQL, Docker, Zeppelin.
+5. Technologies, Libraries & Software Tools Used : Pyspark, R, nltk, Spark ML, Spark Mlib, Spark SQL, Docker, Zeppelin, R Studio.
+## How to Setup
+1. Import all the three JSON files namely Music Mood Analysis 1.json, Music Mood Analysis 2.json and Music Mood Analysis 3.json from the Zeppelin Pyspark Code folder in your Zeppelin notebook to see the Pyspark code for this project.
+2. Import the RScript.R script from the Data Visualization Code folder in RStudio to check out the code written in R.
