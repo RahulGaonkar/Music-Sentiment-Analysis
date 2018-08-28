@@ -12,4 +12,4 @@ A comparative study based on accuracy of prediction by training different machin
    iv. Model Building: SVM, Naive Bayesian, Gradient Boosting.
    v. Tuning: Cross-Validation, Hyperparameter tuning.
 4. Different visualisation patterns like Word Cloud, Comparison Cloud & Pyramid Plot were also created to get some insights from the predicted results.
-5. Technologies & Software Tools Used : Pyspark, Docker, Zeppelin, R.
+5. Technologies, Libraries & Software Tools Used : Pyspark, R, nltk, Spark ML, Spark Mlib, Spark SQL, Docker, Zeppelin.
