@@ -1,7 +1,7 @@
 # Music-Sentiment-Analysis
-•	Designed workflow pipelines containing different supervised machine learning models to predict mood of song <br>   
-•	Performed feature engineering from song lyrics dataset using different natural language processing techniques <br>        
-•	Developed and evaluated different visualization patterns to display insights from predicted results <br>
+•	Designed workflow pipelines containing different supervised machine learning models to predict mood of song   
+•	Performed feature engineering from song lyrics dataset using different natural language processing techniques        
+•	Developed and evaluated different visualization patterns to display insights from predicted results
 
 ## Synopsis
 1. The project was developed to predict the mood of the song (happy or sad) based on the lyrics of the song
@@ -10,8 +10,8 @@
    i. ***Data Preprocessing techniques:*** Data Cleaning, Tokenization, Stop Word Removal, Stemming/Lemmatisation, Label Encoding<br>
    ii.***Feature Extraction:*** Count Vectorization, TFIDF, Polarity Assignment of Lyrics (nltk.sentiment.vader) <br>
    iii. ***Feature Selection:*** Count Vectorization on Unigram, Count Vectorization on Bigram, Count Vectorization on Unigram & Bigram,   
-   TFIDF Vectorization on Unigram, TFIDF Vectorization on Bigram, TFIDF Vectorization on Unigram & Bigram, Unigrams TFIDF Vectorization and 
-      Lyrics Polarity Value <br>
+   TFIDF Vectorization on Unigram, TFIDF Vectorization on Bigram, TFIDF Vectorization on Unigram & Bigram, Unigrams TFIDF Vectorization
+   and Lyrics Polarity Value <br>
    iv. ***Model Building:*** SVM, Naive Bayesian, Gradient Boosting <br>
    v. ***Tuning:*** Cross-Validation, Hyperparameter tuning <br>
 4. Different visualisation patterns like Word Cloud, Comparison Cloud & Pyramid Plot were also created to get some insights from the predicted results
