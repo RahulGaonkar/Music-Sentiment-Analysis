@@ -8,7 +8,7 @@
 2. The dataset containing the lyrics of 1000 labeled (happy or sad) songs was taken from the following project (https://github.com/rasbt/musicmood)
 3. Different pipelines were created to try all combinations of data preprocessing techniques, feature extraction & selection techniques, machine learning model building & tuning techniques to make a comparative study of the accuracy of the predicted results<br> 
    i. ***Data Preprocessing techniques:*** Data Cleaning, Tokenization, Stop Word Removal, Stemming/Lemmatisation, Label Encoding<br>
-   ii.***Feature Extraction:*** Count Vectorization, TFIDF, Polarity Assignment of Lyrics (nltk.sentiment.vader) <br>
+   ii. ***Feature Extraction:*** Count Vectorization, TFIDF, Polarity Assignment of Lyrics (nltk.sentiment.vader) <br>
    iii. ***Feature Selection:*** Count Vectorization on Unigram, Count Vectorization on Bigram, Count Vectorization on Unigram and Bigram, TFIDF Vectorization on Unigram, TFIDF Vectorization on Bigram, TFIDF Vectorization on Unigram & Bigram, Unigrams TFIDF Vectorization and Lyrics Polarity Value <br>
    iv. ***Model Building:*** SVM, Naive Bayesian, Gradient Boosting <br>
    v. ***Tuning:*** Cross-Validation, Hyperparameter tuning <br>
