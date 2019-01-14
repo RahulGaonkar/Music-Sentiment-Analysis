@@ -17,3 +17,6 @@
 ## How to Setup
 1. Import all the three JSON files namely Music Mood Analysis 1.json, Music Mood Analysis 2.json and Music Mood Analysis 3.json from the Zeppelin Pyspark Code folder in your Zeppelin notebook to see the Pyspark code for this project
 2. Import the RScript.R script from the Data Visualization Code folder in RStudio to check out the code written in R
+## More
+[Project Report](Music_Sentiment_Analysis_Report.pdf)
+[Project Presentation](Music_Sentiment_Analysis_Presentation.pdf)
